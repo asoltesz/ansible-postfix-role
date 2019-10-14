@@ -1,0 +1,1 @@
+/From:.*/ REPLACE From: {{ server_name }} <{{ admin_email }}>

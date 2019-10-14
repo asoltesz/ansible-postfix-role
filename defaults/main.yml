@@ -1,0 +1,6 @@
+---
+smtp_host: localhost
+smtp_port: 587
+smtp_username: blah
+smtp_password: blah
+smtp_hostname: blah.com
